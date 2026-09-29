@@ -1,0 +1,13 @@
+# Ignore Python AI microservice on Vercel (deploy python-service to Render/Railway instead)
+python-service/
+python-service/**
+*.py
+requirements.txt
+__pycache__/
+*.pyc
+
+# Ignore local builds and logs
+.git
+.github
+*.log
+node_modules

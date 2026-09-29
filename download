@@ -1,0 +1,12 @@
+﻿node_modules
+dist
+build
+.env
+.env.local
+*.log
+__pycache__
+.pytest_cache
+venv
+.venv
+*.pyc
+.DS_Store
